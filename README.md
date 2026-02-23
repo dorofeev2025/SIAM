@@ -3,6 +3,7 @@ Statistical Identification of Anomalies in Mahalanobis Space
 
 ## Description
 This repository contains software that supplements the following paper:
+
 Oleg Melnikov, Yurii Dorofieiev, Yurii Shakhnovskiy, Huy Truong, Victoria Degeler,
 A multivariate statistical framework for detection, classification and pre-localization of anomalies in water distribution networks,
 Expert Systems with Applications, Volume 313, 2026, 131450, ISSN 0957-4174,
